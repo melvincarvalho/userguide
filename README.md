@@ -2,11 +2,13 @@
 description: User Guide For Data Browser
 ---
 
-# User Guide
+# Data Browser User Guide
 
 ## Getting Started
 
-To get started with the data browser click the public folder
+To get started with the data browser click the **public** folder
+
+![](.gitbook/assets/databrowser_home.png)
 
 Click the green + and you will be able to add folders and apps.
 

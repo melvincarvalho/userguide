@@ -1,4 +1,4 @@
 # Table of contents
 
-* [User Guide](README.md)
+* [Data Browser User Guide](README.md)
 
