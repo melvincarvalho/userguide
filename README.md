@@ -36,7 +36,7 @@ The databrowser contains many apps.
 
 **Folder** : creates a new folder
 
-**Source** : allows you to view and edit source code for riles
+**Source** : allows you to create new files, view and edit source code for riles
 
 _Tip: drag and drop a file to the green plus and it will be uploaded to that directory_
 
