@@ -14,31 +14,31 @@ Click the green + and you will be able to add folders and apps.
 
 ![](.gitbook/assets/databrowser_public.png)
 
-{% hint style="info" %}
- Tip: drag a file to the green plus and it will be uploaded to that directory
-{% endhint %}
-
 ![](.gitbook/assets/databrowser_apps.png)
 
 The databrowser contains many apps.
 
-Address Book : adds a listt of contacts
+**Address Book** : adds a listt of contacts
 
-Pad : gives a multi user notepad
+**Pad** : gives a multi user notepad
 
-Chat : gives a short lived chat session
+**Chat** : gives a short lived chat session
 
-Long Chat : gives a multi day chat session
+**Long Chat** : gives a multi day chat session
 
-Meeting : gives a multi user meeting 
+**Meeting** : gives a multi user meeting 
 
-Event : creates an event at a time
+**Event** : creates an event at a time
 
-Link : adds a new link
+**Link** : adds a new link
 
-Dokieli : adds a dokeili doc
+**Dokieli** : adds a dokeili doc
 
-Folder : creates a new folder
+**Folder** : creates a new folder
 
-Source : allows you to view and edit source code for riles
+**Source** : allows you to view and edit source code for riles
+
+_Tip: drag and drop a file to the green plus and it will be uploaded to that directory_
+
+
 
