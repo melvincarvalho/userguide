@@ -20,15 +20,27 @@ The databrowser contains many apps.
 
 ## Address Book
 
-Adds a listt of contacts
+Adds a list of contacts
 
 ![](.gitbook/assets/db_address%20%281%29.png)
 
-**Pad** : gives a multi user notepad
+## Pad
 
-**Chat** : gives a short lived chat session
+Gives a multi user notepad
 
-**Long Chat** : gives a multi day chat session
+![](.gitbook/assets/db_pad.png)
+
+## Chat
+
+Creates a chat session
+
+![](.gitbook/assets/db_chat.png)
+
+## Long Chat
+
+Gives a multi day chat session
+
+![](.gitbook/assets/db_chat%20%281%29.png)
 
 **Meeting** : gives a multi user meeting 
 
