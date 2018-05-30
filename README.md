@@ -18,7 +18,11 @@ Click the green + and you will be able to add folders and apps.
 
 The databrowser contains many apps.
 
-**Address Book** : adds a listt of contacts
+## Address Book
+
+Adds a listt of contacts
+
+![](.gitbook/assets/db_address%20%281%29.png)
 
 **Pad** : gives a multi user notepad
 
