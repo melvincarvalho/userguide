@@ -22,7 +22,7 @@ The databrowser contains many apps.
 
 Adds a list of contacts
 
-![](.gitbook/assets/db_address%20%281%29.png)
+![](.gitbook/assets/db_address.png)
 
 ## Pad
 
@@ -40,19 +40,27 @@ Creates a chat session
 
 Gives a multi day chat session
 
-![](.gitbook/assets/db_chat%20%281%29.png)
+![](.gitbook/assets/db_chat%20%282%29.png)
 
-**Meeting** : gives a multi user meeting 
+## Meeting
 
-**Event** : creates an event at a time
+Creates a meeting with many addons
 
-**Link** : adds a new link
+![](.gitbook/assets/db_meeting.png)
 
-**Dokieli** : adds a dokeili doc
+## Folder
 
-**Folder** : creates a new folder
+Creates a new folder
 
-**Source** : allows you to create new files, view and edit source code for riles
+![](.gitbook/assets/db_folder.png)
+
+## Source
+
+Allows you to create new files, view and edit source code for files
+
+![](.gitbook/assets/db_source.png)
+
+There are many more apps and panes in the data browser.  One for each class it's also extensible and customizable, so enjoy exploring!
 
 _Tip: drag and drop a file to the green plus and it will be uploaded to that directory_
 
