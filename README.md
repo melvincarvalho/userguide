@@ -64,5 +64,30 @@ There are many more apps and panes in the data browser.  One for each class it's
 
 _Tip: drag and drop a file to the green plus and it will be uploaded to that directory_
 
+## Deleting a file
 
+Open your solid profile,
+
+Navigate to and open File/Folder you want to Delete
+
+Now, move your cursor over the name of the file or Folder. You will see some icons showing up.
+
+Click on the 'Settings' icon
+
+Now hover your mouse cursor to the left of the 'Refresh icon'. A red colored 'Remove' icon will become visible.
+
+Click it & Confirm deletion.
+
+1. Open your solid community profile,
+2. Navigate to and open File/Folder you want to Delete
+4. Now, move your cursor over the name of the file or Folder. You will see some icons showing up.
+5.  Click on the 'Settings' icon 
+![image](https://user-images.githubusercontent.com/29155477/46451992-fc8eea80-c7b6-11e8-941e-aaad3f1e5f95.png)
+
+
+6. Now hover your mouse cursor to the left of the 'Refresh icon'. A red colored 'Remove' icon will become visible. 
+![image](https://user-images.githubusercontent.com/29155477/46452008-16c8c880-c7b7-11e8-83f6-16c1ba4ab12f.png)
+
+
+7. Click it & Confirm deletion.  
 
