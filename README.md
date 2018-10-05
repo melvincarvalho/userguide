@@ -66,18 +66,6 @@ _Tip: drag and drop a file to the green plus and it will be uploaded to that dir
 
 ## Deleting a file
 
-Open your solid profile,
-
-Navigate to and open File/Folder you want to Delete
-
-Now, move your cursor over the name of the file or Folder. You will see some icons showing up.
-
-Click on the 'Settings' icon
-
-Now hover your mouse cursor to the left of the 'Refresh icon'. A red colored 'Remove' icon will become visible.
-
-Click it & Confirm deletion.
-
 1. Open your solid community profile,
 2. Navigate to and open File/Folder you want to Delete
 4. Now, move your cursor over the name of the file or Folder. You will see some icons showing up.
