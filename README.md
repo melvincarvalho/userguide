@@ -3,14 +3,16 @@ description: User Guide For Data Browser
 ---
 
 # Data Browser User Guide
-The Data Browser is intended to be extremely flexible and provide all the basic functionality to allow people to easily manage data on Solid, be that social core with contact management and collaborate with your friends, or the more complex use cases, such as a researcher organizing their data and research on a variety of data sources.
+[Solid](https://solid.github.io/information/) empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
+
+The [Data Browser](https://github.com/solid/mashlib) is intended to be extremely flexible and provide all the basic functionality to allow people to easily manage data on Solid, be that social core with contact management and collaborate with your friends, or the more complex use cases, such as a researcher organizing their data and research on a variety of data sources.
 
 The Data Browser is your de-facto default interface to Solid, enabling you to create, share and collaborate on data stored within Solid Pods with your friends and contacts through social networks and applications. Using the Data Browser, you can coordinate all of your data in an interface that can be configured and extended to support all of your needs on Solid.
 
 ## Accessing
 To access the data stored in a Solid Pod via the Data Browser:
 
-1. In a web browser, navigate to the root Uniform Resource Locator (URL) for the Pod (e.g., https://suser.solid.community):
+1. In a web browser, navigate to the root Uniform Resource Locator (URL) for the Pod you want to access (e.g., https://suser.solid.community):
 2. You will see a view of the public data within the Pod:
 
     <img src=".gitbook/assets//Public_Home.png" alt="Home View (Public)" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
