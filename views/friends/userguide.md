@@ -3,16 +3,14 @@ description: User Guide For Friends Data Browser view
 ---
 
 # <img src="https://solid.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="32"> Friends User Guide
-If you want to add someone to your profile as a public friend or acquaintance, using the `foaf:knows` predicate, you can use the [Friends](https://github.com/solid/userguide/blob/master/views/friends/userguide.md) view:
+If you want to view your friends or add someone as a friend to your profile, using the `foaf:knows` predicate, you can use the [Friends](https://github.com/solid/userguide/blob/master/views/friends/userguide.md) view:
+
+<img src="Friends_View.png" alt="Friends" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 
 ## View
-To display an address book:
-1. In the [Data Browser](https://github.com/solid/userguide/README.md), navigate to the address book. 
-2. The address book should automatically be displayed:
-
-<img src="Addressbook_View.png" alt="Address Book" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
-
-_Tip: If the address book is not automatically displayed, click <img src="https://solid.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16"> in the address book header._
+To display your friends:
+1. In the [Data Browser](https://github.com/solid/userguide/README.md), select **Show your profile** in the top-right dropdown menu. Your profile is displayed.
+2. Click the <img src="https://solid.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="16"> Friends icon.
 
 The view displays a list of your existing friends.
 
