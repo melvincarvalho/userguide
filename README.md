@@ -19,9 +19,6 @@ description: User Guide For Data Browser
   - [Preferences](#preferences)
     - [Role](#role)
     - [Manage your trusted applications](#manage-your-trusted-applications)
-      - [Add](#add)
-      - [Update](#update)
-      - [Delete](#delete)
     - [Delete your Solid account](#delete-your-solid-account)
   - [Edit you profile](#edit-you-profile)
   - [Your storage](#your-storage)
@@ -92,6 +89,7 @@ To view an existing folder or data resource:
         * <img src="https://solid.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16"> [Address Book](https://github.com/solid/userguide/blob/master/views/addressbook/userguide.md). List of personal contacts.
         * <img src="https://solid.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16"> [Chat](https://github.com/solid/userguide/blob/master/views/chat/userguide.md). A short chat session.
         * <img src="https://solid.github.io/solid-ui/src/icons/dokieli-logo.png" alt="Dokieli" width="16"> [Dokieli](https://dokie.li/). Clientside editor for decentralised article publishing, annotations and social interactions.
+        * <img src="https://solid.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="16"> [Friends](https://github.com/solid/userguide/blob/master/views/friends/userguide.md). Maintain a list of your friends.
         * <img src="https://solid.github.io/solid-ui/src/icons/noun_97839.svg" alt="Issue Tracker" width="16">  [Issue Tracker](https://github.com/solid/issue-pane/blob/master/README.md). A flexible issue tracking system. To configure an issue tracker, follow the [configuration](https://github.com/solid/issue-pane/blob/master/Documentation/Configuration.md) instructions. 
         * <img src="https://solid.github.io/solid-ui/src/icons/noun_1689339.svg" alt="Long Chat" width="16"> [Long Chat](https://github.com/solid/userguide/blob/master/views/longchat.md). A multi-day chat session.
         * <img src="https://solid.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16"> [Meeting](https://github.com/solid/userguide/blob/master/views/meeting/userguide.md). Meeting details.
@@ -231,11 +229,3 @@ Even if you have navigated to a different Pod, you can still view your storage.
 To view your storage:
 1. Select **Your storage** from the dropdown menu.
 2. A Folder view of your storage is displayed.
-
-### Your friends
-If you want to add someone to your profile as a public friend or acquaintance, using the `foaf:knows` predicate, you can use the Social view. This is the colored icon that has four smileys in them:
-
-![image](https://user-images.githubusercontent.com/775139/68128362-df779e80-ff17-11e9-883a-04b4bb0b30d8.png)
-
-Clicking on this will display a list, onto which you can drag-and-drop URIs, which will add Solid friends to your profile. Make sure to use the whole WebID of the friend you are adding, including, for instance, the `#me` or other fragment identifier ([screencast](https://vimeo.com/371135706)).
-
