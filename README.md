@@ -121,7 +121,7 @@ To create a new folder or data resource:
     * <img src="https://solid.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16"> [Chat](https://github.com/solid/userguide/blob/master/views/chat/userguide.md). A short chat session.
     * <img src="https://solid.github.io/solid-ui/src/icons/dokieli-logo.png" alt="Dokieli" width="16"> [Dokieli](https://dokie.li/). Clientside editor for decentralised article publishing, annotations and social interactions.
     * <img src="https://solid.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16"> Folder. A named folder.
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_1689339.svg" alt="Long Chat" width="16"> [Long Chat](https://github.com/solid/userguide/blob/master/views/longchat.md). A multi-day chat session.
+    * <img src="https://solid.github.io/solid-ui/src/icons/noun_1689339.svg" alt="Long Chat" width="16"> [Long Chat](https://github.com/solid/userguide/blob/master/views/longchat/userguide.md). A multi-day chat session.
     * <img src="https://solid.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16"> [Meeting](https://github.com/solid/userguide/blob/master/views/meeting/userguide.md).
     * <img src="https://solid.github.io/solid-ui/src/icons/noun_79217.svg" alt="Note Pad" width="16"> [Note Pad](https://github.com/solid/userguide/blob/master/views/views/notepad/userguide.md). A multi-user notepad.
     * <img src="https://solid.github.io/solid-ui/src/icons/noun_346777.svg" alt="Scheduled Event" width="16"> [Scheduled Event](https://github.com/solid/userguide/blob/master/views/scheduledevent/userguide.md).
