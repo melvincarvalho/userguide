@@ -43,7 +43,7 @@ You can see different views of the data by clicking the various View icons just 
 <img src=".gitbook/assets//Public_Folder.png" alt="Folder View (Public)" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 
 _Tip: To return to the default View, click the Solid icon in the top-left corner of the Data Browser._
-_NB: When viewing another person's pod, make sure to add the origin of that pod as a trusted app on your own profile (read+append access is enough)._
+_NB: When viewing another person's pod, make sure to add the origin of that pod as a trusted app on your own profile._
 
 ## Log In
 To access your data, and data to which you have permission to access, you must log in:
