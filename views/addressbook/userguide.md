@@ -32,7 +32,7 @@ To display an address book:
 
 <img src="Addressbook_View.png" alt="Address Book" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 
-_Tip: If the address book is not automatically displayed, click <img src="https://solid.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16"> in the address book header._
+_**Tip:** If the address book is not automatically displayed, click <img src="https://solid.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16"> in the address book header._
 
 ## Contacts
 
@@ -46,7 +46,7 @@ To display the details for a contact:
 
 3. Via the [Profile](https://github.com/solid/userguide/blob/master/views/profile/userguide.md) view, you can edit the contact details.
 
-<a name="groupselection"></a>_Tip: To select all groups, click the **All** button. To select a subset of the groups, click the group name while holding the Shift/Command key._
+<a name="groupselection"></a>_**Tip:** To select all groups, click the **All** button. To select a subset of the groups, click the group name while holding the Shift/Command key._
 
 ### Search
 You can search for contacts within the address book:
@@ -129,7 +129,7 @@ To add a user/group/bot as Viewers:
         3. The selected Trusted Applications are added as Viewers.
 4. Once added, the sharing access of the entity can be [adjusted](#Adjust).
 
-_Tip: To add a entity to a specific sharing group, drag-and-drop the URI for the entity onto the sharing group._
+_**Tip:** To add a entity to a specific sharing group, drag-and-drop the URI for the entity onto the sharing group._
 
 #### Adjust
 To move an entity between sharing groups:

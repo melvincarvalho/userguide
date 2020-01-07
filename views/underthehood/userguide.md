@@ -20,4 +20,4 @@ To delete an existing data resource:
 4. Click the <img src="https://solid.github.io/solid-ui/src/icons/noun_2188_red.svg" alt="Remove" width="16"> Remove  icon to delete the resource.
 5. Confirm the deletion by clicking the **Delete file** button.
 
-_Tip: You need to refresh your web browser for the deletion to be visible in the Folder view._
+_**Tip:** You need to refresh your web browser for the deletion to be visible in the Folder view._

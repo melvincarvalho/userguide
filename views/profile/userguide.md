@@ -23,7 +23,7 @@ Several icons are displayed:
 * <img src="https://solid.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16"> [Source](https://github.com/solid/userguide/blob/master/views/source/userguide.md). Display the source of the Profile.
 * <img src="https://solid.github.io/solid-ui/src/originalIcons/tango/22-emblem-system.png" alt="Under the Hood" width="16"> [Under the Hood](https://github.com/solid/userguide/blob/master/views/underthehood/userguide.md). Access 'under the hood' functionality regarding the resource.
 
-_Tip: If you have edit permission to the Profile, you can edit the Profile in both the Contact and Person views._
+_**Tip:** If you have edit permission to the Profile, you can edit the Profile in both the Contact and Person views._
 
 ## Friends
 Any public friends of the WebID of displayed on the Friends view, together with a link allowing the Profile to be view as a basic data resource:

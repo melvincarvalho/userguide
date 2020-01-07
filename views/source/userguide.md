@@ -31,6 +31,6 @@ To save edits to the source:
     1. If valid, the resource will be saved. 
     2. Otherwise, an error message is displayed describing the issue. The issue will need to be corrected before the resource can be saved.
 
-_Tip: To cancel and discard any edits, click <img src="https://solid.github.io/solid-ui/src/icons/noun_1180156.svg" alt="Cancel" width="16"> below the Source view panel._
-
-_Tip: You need write access to the data resource to save edits._
+_**Tips:**_
+* _To cancel and discard any edits, click <img src="https://solid.github.io/solid-ui/src/icons/noun_1180156.svg" alt="Cancel" width="16"> below the Source view panel._
+* _You need write access to the data resource to save edits._

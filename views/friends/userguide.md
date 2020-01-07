@@ -27,7 +27,7 @@ To add a new frield to the list:
 2. Drag-and-drop the highlighted WebID onto the Friends list.
 3. If valid, the friend is added to the list.
 
-_Tip: Make sure to use the whole WebID of the friend you are adding, including, for instance, the `#me` or other fragment identifier._
+_**Tip:** Make sure to use the whole WebID of the friend you are adding, including, for instance, the `#me` or other fragment identifier._
 
 ## Remove an existing Friend
 To remove an existing friend:

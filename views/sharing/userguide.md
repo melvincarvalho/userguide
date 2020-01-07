@@ -25,7 +25,7 @@ To display the Sharing view for a folder or data resource:
 
 For each of the Sharing groups - Owners, Editors, Posters, Submitters, Viewers, the Sharing view displays the group members and the assigned permissions.
 
-_Tip: Clicking the <img src="https://solid.github.io/solid-ui/src/originalIcons/go-to-this.png" alt="Sharing" width="16"> Goto This icon next to the user's Profile image/name will display the user's profile._
+_**Tip:** Clicking the <img src="https://solid.github.io/solid-ui/src/originalIcons/go-to-this.png" alt="Sharing" width="16"> Goto This icon next to the user's Profile image/name will display the user's profile._
 
 ## Specific Sharing for a Resource
 By default, resources within a folder inherit the permissions from the parent folder. 
@@ -63,7 +63,7 @@ To add a user/group/bot as Viewers:
         3. The selected Trusted Applications are added as Viewers.
 4. Once added, the sharing access of the entity can be [adjusted](#Adjust).
 
-_Tip: To add a entity to a specific sharing group, drag-and-drop the URI for the entity onto the sharing group._
+_**Tip:** To add a entity to a specific sharing group, drag-and-drop the URI for the entity onto the sharing group._
 
 ### Adjust
 To move an entity between sharing groups:
