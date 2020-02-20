@@ -5,7 +5,7 @@ description: User Guide For Friends Data Browser view
 # <img src="https://solid.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="32"> Friends User Guide
 If you want to view your friends or add someone as a friend to your profile, using the `foaf:knows` predicate, you can use the [Friends](https://github.com/solid/userguide/blob/master/views/friends/userguide.md) view:
 
-<img src="Friends_View.png" alt="Friends" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
+<img src="Friends_view.png" alt="Friends" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 
 ## View
 To display your friends:
