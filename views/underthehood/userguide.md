@@ -10,6 +10,14 @@ The Under the Hood view displays information about the resource that may be of i
 
 <img src="Delete_Resource.png" alt="Delete an existing Resource" width="632">
 
+## Prerequisite
+
+To have the privileges to manipulate your own resources you have to: 
+1. Login
+2. Click on your profile image. A menu unfolds.
+3. Click on _Preferences_. 
+4. Select _Power user_ **and** _Developer_ under **User types**.
+
 ## Deleting the Resource
 You can delete existing folder and data resources to which you have delete permission.
 
