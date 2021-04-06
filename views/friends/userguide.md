@@ -23,11 +23,12 @@ To display the public profile for an existing friend:
 ## Add a new Friend
 To add a new frield to the list:
 
-1. Highlight the WebID for the friends (e.g., in the web browser address bar).
-2. Drag-and-drop the highlighted WebID onto the Friends list.
+1. Display the profile of your friend in a new web browser tab.
+2. Click-and-drag the icon displayed to the left of the WebID in the web browser address bar onto the Friends list:
+<img src="addressbar.png" alt="WebID in Address Bar" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 3. If valid, the friend is added to the list.
 
-_**Tip:** Make sure to use the whole WebID of the friend you are adding, including, for instance, the `#me` or other fragment identifier._
+_**Tip:** Make sure to use the whole WebID of the friend you are adding, including the `#me` or other fragment identifier._
 
 ## Remove an existing Friend
 To remove an existing friend:
