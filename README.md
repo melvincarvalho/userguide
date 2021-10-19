@@ -2,7 +2,7 @@
 description: User Guide For Data Browser
 ---
 
-# Data Browser User Guide
+# SolidOS (former known as Data Browser) User Guide
 
 - [Introduction](#introduction)
 - [Accessing](#accessing)
