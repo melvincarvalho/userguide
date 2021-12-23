@@ -30,7 +30,7 @@
 
 SolidOS is your de-facto default interface to Solid, enabling you to create, share and collaborate on data stored within Solid Pods with your friends and contacts through social networks and applications. Using the SolidOS, you can coordinate all of your data in an interface that can be configured and extended to support all of your needs on Solid.
 
-## Accessing your data
+## Accessing
 To access the data stored in a Solid Pod via the SolidOS:
 
 1. In a web browser, navigate to the root Uniform Resource Locator (URL) for the Pod you want to access (e.g., [`https://suser.solidcommunity.net`](https://suser.solidcommunity.net)):
