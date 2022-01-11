@@ -20,7 +20,7 @@
         - [Update](#update)
         - [Delete](#delete)
       - [Delete your Solid account](#delete-your-solid-account)
-    - [Edit your profile](#edit-you-profile)
+    - [Edit your profile](#edit-your-profile)
     - [Your storage](#your-storage)
 
 ## Introduction
