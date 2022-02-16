@@ -189,12 +189,12 @@ For more details on Roles, refer to the [User Roles](https://github.com/solid/us
 
 #### Manage your trusted applications
 
-Before you can use third-party applications, you need to whitelist them (i.e., list them as trusted to access data within your Pod) via the Trusted Application table:
+Before you can use third-party applications, you need to add them to the allowlist (i.e., list them as trusted to access data within your Pod) via the Trusted Application table:
 
 <img src=".gitbook/assets/Manage_Your_Trusted_Apps.png" alt="Manage your Trusted Applications table" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 
 ##### Add
-To whitelist a new third-party application, at the bottom of the table of trusted applications:
+To allow a new third-party application, at the bottom of the table of trusted applications:
 1. Enter the URL of the new application under **Application URL**.
 2. Select the permissions, or **Access Modes**, you want to give to the new application.
 3. Click **Add** under **Actions**.
