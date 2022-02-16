@@ -20,7 +20,7 @@
         - [Update](#update)
         - [Delete](#delete)
       - [Delete your Solid account](#delete-your-solid-account)
-    - [Edit you profile](#edit-you-profile)
+    - [Edit your profile](#edit-your-profile)
     - [Your storage](#your-storage)
 
 ## Introduction
@@ -219,7 +219,7 @@ _**Note:** The actual workflow for deleting your account depends upon the Solid 
 
 _**Warning:** When your account is deleted, all of the data is deleted and cannot be restored._
 
-### Edit you profile
+### Edit your profile
 You can setup a public profile that will be visible to visitors to your Pod.
 
 To edit your public profile:
