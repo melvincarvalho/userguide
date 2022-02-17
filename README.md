@@ -250,4 +250,4 @@ _**remark:** you will only be able to visualize the resources that are publicly 
 You will be prompted to authorize the new person's Pod to access your Pod. This is required as a preliminary step, otherwise your Pod storage cannot be accessed and displayed. If you authorize the new WebID to access your store then you can see the store of the new Pod as a new option in the drop down header menu.
 
 In the next screenshot I (<https://timea.solidcommunity.net/profile/card#me>) was visiting the pod of <https://sharonstrats.inrupt.net/profile/card#me> and at the same time I have added <https://timea-test.solidcommunity.net/profile/card#me> as an extra store that belongs to me.
-![Displaying more stores](/views/storage/Another_Pods_Storage.png)
+![Displaying more stores](.gitbook/assets/Another_Pods_Storage.png)
