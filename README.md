@@ -238,7 +238,7 @@ To view your storage:
 1. Select **Your storage** from the dropdown menu.
 2. A folder view of your storage is displayed.
 
-To visualize and have access to another storage of another user you have two options at the moment:
+To visualize and have access to the storage of another user, you have two options, at the moment:
 
 1. Add the storage directly in your profile/card.
 The store is connected to your profile with a triple like `:me space:storage </>; `. You can simply add a second triple with the same predicate `:me space:storage <otherWebID>` to your WebID (so in your file that can be found under a URI like this one: <https://timea.solidcommunity.net/profile/card#me<>). Example of triple to be added:`:me space:storage <https://suser.solidcommunity.net>:`
