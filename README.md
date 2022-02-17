@@ -247,9 +247,10 @@ To visualize and have access to the storage of another user, you have two option
 _**remark:** Make sure you have the correct prefix for `space:storage`. The full URI is `<http://www.w3.org/ns/pim/space#storage>`.
 _**remark:** You will only be able to visualize the resources that are publicly readable in the second Pod, unless you have full access to the second Pod.
 
-2. Navigate to a person's Pod and login.
-You will be prompted to authorize the new person's Pod to access your Pod. This is required as a preliminary step, otherwise your Pod storage cannot be accessed and displayed. If you authorize the new WebID to access your store then you can see the store of the new Pod as a new option in the drop down header menu.
+2. Navigate to a person's Pod and log in.
 
-In the next screenshot I (<https://timea.solidcommunity.net/profile/card#me>) was visiting the pod of <https://sharonstrats.inrupt.net/profile/card#me> and at the same time I have added <https://timea-test.solidcommunity.net/profile/card#me> as an extra store that belongs to me.
+   You will be prompted to authorize the new person's Pod to access your Pod. This is required as a preliminary step; otherwise, your Pod storage cannot be accessed and displayed. If you authorize the new WebID to access your store, then you can see the store of the new Pod as a new option in the drop down header menu.
+
+   In the next screenshot, I (`<https://timea.solidcommunity.net/profile/card#me>`) was visiting the pod of `<https://sharonstrats.inrupt.net/profile/card#me>`, and at the same time, I have added <https://timea-test.solidcommunity.net/profile/card#me> as an extra store that belongs to me.
 
 ![Displaying more stores](.gitbook/assets/Another_Pods_Storage.png)
