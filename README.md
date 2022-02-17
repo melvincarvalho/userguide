@@ -241,10 +241,11 @@ To view your storage:
 To visualize and have access to the storage of another user, you have two options, at the moment:
 
 1. Add the storage directly in your profile/card.
-The store is connected to your profile with a triple like `:me space:storage </>; `. You can simply add a second triple with the same predicate `:me space:storage <otherWebID>` to your WebID (so in your file that can be found under a URI like this one: <https://timea.solidcommunity.net/profile/card#me<>). Example of triple to be added:`:me space:storage <https://suser.solidcommunity.net>:`
 
-_**remark:** make sure you have the correct prefix for space:storage, the full URI is `<http://www.w3.org/ns/pim/space#storage>`.
-_**remark:** you will only be able to visualize the resources that are publicly readable in the second Pod. Unless you have full access to the second Pod.
+   Your storage is connected to your profile with a triple like `:me space:storage </> . `. You can simply add a second triple with the same predicate, like `:me space:storage <otherWebID>`, to your WebID Profile Document (that is, in your file that can be found under a URI like this one: `<https://timea.solidcommunity.net/profile/card#me>`). An example of the triple to be added is `:me space:storage <https://suser.solidcommunity.net> .`
+
+_**remark:** Make sure you have the correct prefix for `space:storage`. The full URI is `<http://www.w3.org/ns/pim/space#storage>`.
+_**remark:** You will only be able to visualize the resources that are publicly readable in the second Pod, unless you have full access to the second Pod.
 
 2. Navigate to a person's Pod and login.
 You will be prompted to authorize the new person's Pod to access your Pod. This is required as a preliminary step, otherwise your Pod storage cannot be accessed and displayed. If you authorize the new WebID to access your store then you can see the store of the new Pod as a new option in the drop down header menu.
