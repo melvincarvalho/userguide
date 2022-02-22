@@ -2,7 +2,7 @@
 
 - [SolidOS Databrowser Frontend User Guide](#solidos-databrowser-frontend-user-guide)
   - [Introduction](#introduction)
-  - [Accessing your data](#accessing-your-data)
+  - [Accessing](#accessing)
   - [Log In](#log-in)
   - [Log Out](#log-out)
   - [Pod Functionality](#pod-functionality)
@@ -231,8 +231,26 @@ To edit your public profile:
     * The background and highlight colors in which your public profile should be displayed.
 
 ### Your storage
-Even if you have navigated to a different Pod, you can still view your storage.
+
+The **Your storage** menu item brings you to an overview of all the resources within your Pod. This will always display the storage of your WebID, so it is your personal storage. Even if you navigate to a different Pod, you can still view your personal storage.
 
 To view your storage:
 1. Select **Your storage** from the dropdown menu.
-2. A Folder view of your storage is displayed.
+2. A folder view of your storage is displayed.
+
+To visualize and have access to the storage of another user, you have two options, at the moment:
+
+1. Add the storage directly in your profile/card.
+
+   Your storage is connected to your profile with a triple like `:me space:storage </> . `. You can simply add more triples with the same predicate, like `:me space:storage <otherWebID>`, to your WebID Profile Document (that is, in your file that can be found under a URI like this one: `<https://timea.solidcommunity.net/profile/card#me>`). An example of the triple to be added is `:me space:storage <https://suser.solidcommunity.net> .`
+
+_**remark:** Make sure you have the correct prefix for `space:storage`. The full URI is `<http://www.w3.org/ns/pim/space#storage>`.
+_**remark:** You will only be able to visualize the resources that are readable with your WebID in the available Pods.
+
+2. Navigate to a person's Pod and log in.
+
+   You will be prompted to authorize the new person's Pod to access your Pod. This is required as a preliminary step; otherwise, your Pod storage cannot be accessed and displayed. If you authorize the new WebID to access your store, then you can see the store of the new Pod as a new option in the drop down header menu.
+
+   In the next screenshot, I (`<https://timea.solidcommunity.net/profile/card#me>`) was visiting the pod of `<https://sharonstrats.inrupt.net/profile/card#me>`, and at the same time, I have added <https://timea-test.solidcommunity.net/profile/card#me> as an extra store that belongs to me.
+
+![Displaying more stores](.gitbook/assets/Another_Pods_Storage.png)
