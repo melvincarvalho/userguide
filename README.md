@@ -232,7 +232,7 @@ To edit your public profile:
 
 ### Your storage
 
-The **Your storage** menu item brings you to an overview of all the resources within your Pod. This will always display the storage of your WebID, so it is your personal storage. Even if you navigate to a different Pod, you can still only view your personal storage.
+The **Your storage** menu item brings you to an overview of all the resources within your Pod. This will always display the storage of your WebID, so it is your personal storage. Even if you navigate to a different Pod, you can still view your personal storage.
 
 To view your storage:
 1. Select **Your storage** from the dropdown menu.
