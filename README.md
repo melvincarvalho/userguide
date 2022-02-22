@@ -242,7 +242,7 @@ To visualize and have access to the storage of another user, you have two option
 
 1. Add the storage directly in your profile/card.
 
-   Your storage is connected to your profile with a triple like `:me space:storage </> . `. You can simply add a second triple with the same predicate, like `:me space:storage <otherWebID>`, to your WebID Profile Document (that is, in your file that can be found under a URI like this one: `<https://timea.solidcommunity.net/profile/card#me>`). An example of the triple to be added is `:me space:storage <https://suser.solidcommunity.net> .`
+   Your storage is connected to your profile with a triple like `:me space:storage </> . `. You can simply add more triples with the same predicate, like `:me space:storage <otherWebID>`, to your WebID Profile Document (that is, in your file that can be found under a URI like this one: `<https://timea.solidcommunity.net/profile/card#me>`). An example of the triple to be added is `:me space:storage <https://suser.solidcommunity.net> .`
 
 _**remark:** Make sure you have the correct prefix for `space:storage`. The full URI is `<http://www.w3.org/ns/pim/space#storage>`.
 _**remark:** You will only be able to visualize the resources that are readable with your WebID in the available Pods.
