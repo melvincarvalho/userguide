@@ -2,7 +2,7 @@
 
 - [SolidOS Databrowser Frontend User Guide](#solidos-databrowser-frontend-user-guide)
   - [Introduction](#introduction)
-  - [Accessing](#accessing)
+  - [Accessing data](#accessing-data)
   - [Log In](#log-in)
   - [Log Out](#log-out)
   - [Pod Functionality](#pod-functionality)
@@ -24,13 +24,15 @@
     - [Your storage](#your-storage)
 
 ## Introduction
+
 [Solid](https://solidproject.org/) empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
 
 [SolidOS Databrowser Frontend](https://github.com/solid/solidos), which we name SolidOS for simplicity, is intended to be extremely flexible and provide all the basic functionality to allow people to easily manage data on Solid, be that social core with contact management and collaborate with your friends, or the more complex use cases, such as a researcher organizing their data and research on a variety of data sources.
 
 SolidOS is your de-facto default interface to Solid, enabling you to create, share and collaborate on data stored within Solid Pods with your friends and contacts through social networks and applications. Using the SolidOS, you can coordinate all of your data in an interface that can be configured and extended to support all of your needs on Solid.
 
-## Accessing
+## Accessing data
+
 To access the data stored in a Solid Pod via the SolidOS:
 
 1. In a web browser, navigate to the root Uniform Resource Locator (URL) for the Pod you want to access (e.g., [`https://suser.solidcommunity.net`](https://suser.solidcommunity.net)):
