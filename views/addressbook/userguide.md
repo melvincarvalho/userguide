@@ -40,11 +40,11 @@ _**Tip:** If the address book is not automatically displayed, click <img src="ht
 To display the details for a contact:
 1. Optionally, select the [group](#groups)(s) of which the contact is a member to filter the list of contacts.
 1. Click the name of the contact to display.
-2. The details of the contact are displayed in a [Profile](https://github.com/solidos/userguide/blob/master/views/profile/userguide.md) view:
+2. The details of the contact are displayed in a [Profile](https://github.com/solidos/userguide/blob/main/views/profile/userguide.md) view:
 
 <img src="Addressbook_Contact.png" alt="Address Book Contact" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 
-3. Via the [Profile](https://github.com/solidos/userguide/blob/master/views/profile/userguide.md) view, you can edit the contact details.
+3. Via the [Profile](https://github.com/solidos/userguide/blob/main/views/profile/userguide.md) view, you can edit the contact details.
 
 <a name="groupselection"></a>_**Tip:** To select all groups, click the **All** button. To select a subset of the groups, click the group name while holding the Shift/Command key._
 
@@ -60,7 +60,7 @@ To create a new contact record:
 2. Click the **New Contact** button.
 2. Enter the name for the new Contact.
 3. Click <img src="https://solidos.github.io/solid-ui/src/icons/noun_1180158.svg" alt="Continue" width="16" > Continue icon to create the Contact.
-4. A [Profile](https://github.com/solidos/userguide/blob/master/views/profile/userguide.md) view for the new Contact is displayed allowing the details to be entered.
+4. A [Profile](https://github.com/solidos/userguide/blob/main/views/profile/userguide.md) view for the new Contact is displayed allowing the details to be entered.
 
 _Note: A contact must be a member of at least one group._
 
@@ -68,7 +68,7 @@ _Note: A contact must be a member of at least one group._
 To delete an existing contact:
 
 1. [Display](#display-a-contact) the details for the contact.
-2. At the bottom of the [Profile](https://github.com/solidos/userguide/blob/master/views/profile/userguide.md), hover the mouse pointer over the profile.
+2. At the bottom of the [Profile](https://github.com/solidos/userguide/blob/main/views/profile/userguide.md), hover the mouse pointer over the profile.
 3. A <img src="https://solidos.github.io/solid-ui/src/icons/noun_2188_red.svg" alt="Remove" width="16"> Remove icon is displayed. 
 4. Click the <img src="https://solidos.github.io/solid-ui/src/icons/noun_2188_red.svg" alt="Remove" width="16"> Remove icon to delete the contact. 
 
@@ -145,7 +145,7 @@ To remove an entity from a sharing group:
 
 The various Address Book tools allow you to review and maintain the address book.
 
-* Sharing for the Address Book. Allows the [sharing](https://github.com/solidos/userguide/blob/master/views/sharing/userguide.md) for the address book to be views and modified.
+* Sharing for the Address Book. Allows the [sharing](https://github.com/solidos/userguide/blob/main/views/sharing/userguide.md) for the address book to be views and modified.
 * **Check Individual Card Access for Selected Groups**. Who can access which groups?
 * **Find Duplicate Cards**. Scans the contacts to determine any duplicate records. If any are found, they can be repaired.
 * **Find Individuals with no Group**. Determines if any contacts are not in any group.
