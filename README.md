@@ -27,7 +27,7 @@
 
 [Solid](https://solidproject.org/) empowers users and organizations to separate their data from the applications that use it. It allows people to look at the same data with different apps at the same time. It opens brand new avenues for creativity, problem-solving, and commerce.
 
-[SolidOS Databrowser Frontend](https://github.com/solid/solidos), which we name SolidOS for simplicity, is intended to be extremely flexible and provide all the basic functionality to allow people to easily manage data on Solid, be that social core with contact management and collaborate with your friends, or the more complex use cases, such as a researcher organizing their data and research on a variety of data sources.
+[SolidOS Databrowser Frontend](https://github.com/solidos), which we name SolidOS for simplicity, is intended to be extremely flexible and provide all the basic functionality to allow people to easily manage data on Solid, be that social core with contact management and collaborate with your friends, or the more complex use cases, such as a researcher organizing their data and research on a variety of data sources.
 
 SolidOS is your de-facto default interface to Solid, enabling you to create, share and collaborate on data stored within Solid Pods with your friends and contacts through social networks and applications. Using the SolidOS, you can coordinate all of your data in an interface that can be configured and extended to support all of your needs on Solid.
 
@@ -76,10 +76,10 @@ You can use SolidOS to browse and maintain the data within the Pod.
 ### Navigation
 SolidOS allows you to navigate through the data to which you have read access.
 
-1. If necessary, click the Solid logo to display the <img src="https://solid.github.io/solid-ui/src/icons/noun_547570.svg" alt="Home" width="16" > Home view.
-2. Display the <img src="https://solid.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16" > Folder view.
+1. If necessary, click the Solid logo to display the <img src="https://solidos.github.io/solid-ui/src/icons/noun_547570.svg" alt="Home" width="16" > Home view.
+2. Display the <img src="https://solidos.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16" > Folder view.
 3. The folder and data resources in the root folder are displayed as a tree.
-4. Nagivate through the tree by <img src="https://solid.github.io/solid-ui/src/originalIcons/tbl-expand-trans.png" alt="Expand" width="16" >expanding and <img src="https://solid.github.io/solid-ui/src/originalIcons/tbl-collapse.png" alt="Collapse" width="16" >collapsing folders and data resources.
+4. Nagivate through the tree by <img src="https://solidos.github.io/solid-ui/src/originalIcons/tbl-expand-trans.png" alt="Expand" width="16" >expanding and <img src="https://solidos.github.io/solid-ui/src/originalIcons/tbl-collapse.png" alt="Collapse" width="16" >collapsing folders and data resources.
 
 _**Tip:** You can enter the URL for a folder or data resource in the web browser address bar to navigate directly to that resource._
 
@@ -88,30 +88,30 @@ You can view the contents of any folders and/or data resources to which you have
 
 To view an existing folder or data resource:
 1. [Navigate](#Navigation) to the folder containing the resource.
-2. Open the resource by clicking the <img src="https://solid.github.io/solid-ui/src/originalIcons/tbl-expand-trans.png" alt="Expand" width="16" > icon next to the resource.
+2. Open the resource by clicking the <img src="https://solidos.github.io/solid-ui/src/originalIcons/tbl-expand-trans.png" alt="Expand" width="16" > icon next to the resource.
 3. Depending upon the type of resource selected and your preferred [role(s)](#role), different view options can be displayed:
     * Primary Views:
         If the selected resource is of a well-known type, it will automatically be opened in that view. If not, click the appropriate icon.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16" > [Address Book](https://github.com/solid/userguide/blob/master/views/addressbook/userguide.md). List of personal contacts.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16" > [Chat](https://github.com/solid/userguide/blob/master/views/chat/userguide.md). A short chat session.
-        * <img src="https://solid.github.io/solid-ui/src/icons/dokieli-logo.png" alt="Dokieli" width="16" > [Dokieli](https://dokie.li/). Clientside editor for decentralised article publishing, annotations and social interactions.
-        * <img src="https://solid.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="16" > [Friends](https://github.com/solid/userguide/blob/master/views/friends/userguide.md). Maintain a list of your friends.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_97839.svg" alt="Issue Tracker" width="16" >  [Issue Tracker](https://github.com/solid/issue-pane/blob/master/README.md). A flexible issue tracking system. To configure an issue tracker, follow the [configuration](https://github.com/solid/issue-pane/blob/master/Documentation/Configuration.md) instructions. 
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_1689339.svg" alt="Long Chat" width="16" > [Long Chat](https://github.com/solid/userguide/blob/master/views/longchat/userguide.md). A multi-day chat session.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16" > [Meeting](https://github.com/solid/userguide/blob/master/views/meeting/userguide.md). Meeting details.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_79217.svg" alt="Note Pad" width="16" > [Note Pad](https://github.com/solid/userguide/blob/master/views/notepad/userguide.md). A multi-user notepad.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_346777.svg" alt="Scheduled Event" width="16" > [Scheduled Event](https://github.com/solid/userguide/blob/master/views/scheduledevent/userguide.md).
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_138712.svg" alt="Slideshow" width="16" > Slideshow. Display a slideshow of the images contained within the container.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16" > [Address Book](https://github.com/solidos/userguide/blob/master/views/addressbook/userguide.md). List of personal contacts.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16" > [Chat](https://github.com/solidos/userguide/blob/master/views/chat/userguide.md). A short chat session.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/dokieli-logo.png" alt="Dokieli" width="16" > [Dokieli](https://dokie.li/). Clientside editor for decentralised article publishing, annotations and social interactions.
+        * <img src="https://solidos.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="16" > [Friends](https://github.com/solidos/userguide/blob/master/views/friends/userguide.md). Maintain a list of your friends.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_97839.svg" alt="Issue Tracker" width="16" >  [Issue Tracker](https://github.com/solidos/issue-pane/blob/master/README.md). A flexible issue tracking system. To configure an issue tracker, follow the [configuration](https://github.com/solidos/issue-pane/blob/master/Documentation/Configuration.md) instructions. 
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_1689339.svg" alt="Long Chat" width="16" > [Long Chat](https://github.com/solidos/userguide/blob/master/views/longchat/userguide.md). A multi-day chat session.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16" > [Meeting](https://github.com/solidos/userguide/blob/master/views/meeting/userguide.md). Meeting details.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_79217.svg" alt="Note Pad" width="16" > [Note Pad](https://github.com/solidos/userguide/blob/master/views/notepad/userguide.md). A multi-user notepad.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_346777.svg" alt="Scheduled Event" width="16" > [Scheduled Event](https://github.com/solidos/userguide/blob/master/views/scheduledevent/userguide.md).
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_138712.svg" alt="Slideshow" width="16" > Slideshow. Display a slideshow of the images contained within the container.
     * Alternate Views:
-        * <img src="https://solid.github.io/solid-ui/src/originalIcons/about.png" alt="About" width="16"> About. Display information regarding the resource.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16" > Folder. Display the resources within the container in a tree-view.
-        * <img src="https://solid.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16"> [Source](https://github.com/solid/userguide/blob/master/views/source/userguide.md). Display the source of a text file.
-        * <img src="https://solid.github.io/solid-ui/src/icons/padlock-timbl.svg" alt="Sharing" width="16" > [Sharing](https://github.com/solid/userguide/blob/master/views/sharing/userguide.md). Display/update the sharing permissions for the resource.
-        * <img src="https://solid.github.io/solid-ui/src/originalIcons/tango/22-emblem-system.png" alt="Under the Hood" width="16"> [Under the Hood](https://github.com/solid/userguide/blob/master/views/underthehood/userguide.md). Access 'under the hood' functionality regarding the resource.
+        * <img src="https://solidos.github.io/solid-ui/src/originalIcons/about.png" alt="About" width="16"> About. Display information regarding the resource.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16" > Folder. Display the resources within the container in a tree-view.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16"> [Source](https://github.com/solidos/userguide/blob/master/views/source/userguide.md). Display the source of a text file.
+        * <img src="https://solidos.github.io/solid-ui/src/icons/padlock-timbl.svg" alt="Sharing" width="16" > [Sharing](https://github.com/solidos/userguide/blob/master/views/sharing/userguide.md). Display/update the sharing permissions for the resource.
+        * <img src="https://solidos.github.io/solid-ui/src/originalIcons/tango/22-emblem-system.png" alt="Under the Hood" width="16"> [Under the Hood](https://github.com/solidos/userguide/blob/master/views/underthehood/userguide.md). Access 'under the hood' functionality regarding the resource.
     * Developer Views:
-        * <img src="https://solid.github.io/solid-ui/src/originalIcons/rdf_flyer.24.gif" alt="Data" width="16" > Data. Display the resource using a Data view.
-        * <img src="https://solid.github.io/solid-ui/src/originalIcons/w3c/n3_smaller.png" alt="Data as N3" width="16" > Data as N3. Display the resource in Notation3 (N3) language. For more details on N3, click [here](https://www.w3.org/TeamSubmission/n3/).
-        * <img src="https://solid.github.io/solid-ui/src/originalIcons/22-text-xml4.png" alt="RDF/XML" width="16" > RDF/XML. Display the resource as RDF/XML.
+        * <img src="https://solidos.github.io/solid-ui/src/originalIcons/rdf_flyer.24.gif" alt="Data" width="16" > Data. Display the resource using a Data view.
+        * <img src="https://solidos.github.io/solid-ui/src/originalIcons/w3c/n3_smaller.png" alt="Data as N3" width="16" > Data as N3. Display the resource in Notation3 (N3) language. For more details on N3, click [here](https://www.w3.org/TeamSubmission/n3/).
+        * <img src="https://solidos.github.io/solid-ui/src/originalIcons/22-text-xml4.png" alt="RDF/XML" width="16" > RDF/XML. Display the resource as RDF/XML.
 4. Click the appropriate icon to view the resource in the desired manner.
 
 _**Tip:** Each of the icons are toggle buttons. Click the icon again to close the view._
@@ -123,27 +123,27 @@ You can create new folders and data within any Pod folder to which you have crea
 
 To create a new folder or data resource:
 1. [Navigate](#Navigation) to the folder in which you want to create the new resource.
-2. Click the <img src="https://solid.github.io/solid-ui/src/icons/noun_34653_green.svg" alt="Create" width="16"> icon for the folder.
+2. Click the <img src="https://solidos.github.io/solid-ui/src/icons/noun_34653_green.svg" alt="Create" width="16"> icon for the folder.
 3. Several icons are displayed showing the types of resource that can be created:
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16" > [Address Book](https://github.com/solid/userguide/blob/master/views/addressbook/userguide.md). List of contacts.
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16">   [Chat](https://github.com/solid/userguide/blob/master/views/chat/userguide.md). A short chat session.
-    * <img src="https://solid.github.io/solid-ui/src/icons/dokieli-logo.png" alt="Dokieli" width="16" > [Dokieli](https://dokie.li/). Clientside editor for decentralised article publishing, annotations and social interactions.
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16" > Folder. A named folder.
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_1689339.svg" alt="Long Chat" width="16" > [Long Chat](https://github.com/solid/userguide/blob/master/views/longchat/userguide.md). A multi-day chat session.
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16" > [Meeting](https://github.com/solid/userguide/blob/master/views/meeting/userguide.md).
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_79217.svg" alt="Note Pad" width="16" > [Note Pad](https://github.com/solid/userguide/blob/master/views/notepad/userguide.md). A multi-user notepad.
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_346777.svg" alt="Scheduled Event" width="16" > [Scheduled Event](https://github.com/solid/userguide/blob/master/views/scheduledevent/userguide.md).
-    * <img src="https://solid.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16" > [Source](https://github.com/solid/userguide/blob/master/views/source/userguide.md). Create a text files (e.g., Turtle, JSON, RDF, ShEx and SHACL shapes, etc.).
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_99101.svg" alt="Address Book" width="16" > [Address Book](https://github.com/solidos/userguide/blob/master/views/addressbook/userguide.md). List of contacts.
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16">   [Chat](https://github.com/solidos/userguide/blob/master/views/chat/userguide.md). A short chat session.
+    * <img src="https://solidos.github.io/solid-ui/src/icons/dokieli-logo.png" alt="Dokieli" width="16" > [Dokieli](https://dokie.li/). Clientside editor for decentralised article publishing, annotations and social interactions.
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16" > Folder. A named folder.
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_1689339.svg" alt="Long Chat" width="16" > [Long Chat](https://github.com/solidos/userguide/blob/master/views/longchat/userguide.md). A multi-day chat session.
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16" > [Meeting](https://github.com/solidos/userguide/blob/master/views/meeting/userguide.md).
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_79217.svg" alt="Note Pad" width="16" > [Note Pad](https://github.com/solidos/userguide/blob/master/views/notepad/userguide.md). A multi-user notepad.
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_346777.svg" alt="Scheduled Event" width="16" > [Scheduled Event](https://github.com/solidos/userguide/blob/master/views/scheduledevent/userguide.md).
+    * <img src="https://solidos.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16" > [Source](https://github.com/solidos/userguide/blob/master/views/source/userguide.md). Create a text files (e.g., Turtle, JSON, RDF, ShEx and SHACL shapes, etc.).
 4. Select the type of resource you want to create.
-5. Enter the name of the new resource, and click the <img src="https://solid.github.io/solid-ui/src/icons/noun_1180158.svg" alt="Continue" width="16" > Continue button.
+5. Enter the name of the new resource, and click the <img src="https://solidos.github.io/solid-ui/src/icons/noun_1180158.svg" alt="Continue" width="16" > Continue button.
 6. The selected resource will be created in the folder.
 
 _**Tip:** The filename extension of Dokieli documents must be `.html`._
 
-_**Tip:** Drag and drop a file onto the <img src="https://solid.github.io/solid-ui/src/icons/noun_34653_green.svg" alt="Create" width="16"> button, and it will be uploaded to that folder._
+_**Tip:** Drag and drop a file onto the <img src="https://solidos.github.io/solid-ui/src/icons/noun_34653_green.svg" alt="Create" width="16"> button, and it will be uploaded to that folder._
 
 ### Deleting existing Data
-You can delete existing folder and data resources on which you have delete permission via the <img src="https://solid.github.io/solid-ui/src/originalIcons/tango/22-emblem-system.png" alt="Under the Hood" width="16"> [Under the Hood](https://github.com/solid/userguide/blob/master/views/underthehood/userguide.md) view.
+You can delete existing folder and data resources on which you have delete permission via the <img src="https://solidos.github.io/solid-ui/src/originalIcons/tango/22-emblem-system.png" alt="Under the Hood" width="16"> [Under the Hood](https://github.com/solidos/userguide/blob/master/views/underthehood/userguide.md) view.
 
 ## Context-Free Functionality
 Via SolidOS, you can access and maintain resources within your account, even if you have navigated to a different Pod.
@@ -159,7 +159,7 @@ You can view your profile as other people will see it.
 
 To view your public profile:
 1. Select **Show your profile** from the dropdown menu.
-2. Your public profile is displayed in the [Profile](https://github.com/solid/userguide/blob/master/views/profile/userguide.md) view.
+2. Your public profile is displayed in the [Profile](https://github.com/solidos/userguide/blob/master/views/profile/userguide.md) view.
 
 ### Your stuff
 As you create resources in your Pod (e.g., address books), you can define them as private and/or public. This causes links to the resources to be displayed in the **Private things** and/or **Public things** panels to allow for easy access.
@@ -174,7 +174,7 @@ To display the Preferences view:
 #### Role
 The options presented to you when viewing data can be customised based on your role. By default, all users can view all standard social views. Optionally, you can select one or more role(s) that provide access to advanced views in addition to the default views:
 * Developer. View Data, N3, and RDF views of the data.
-* Power User. View additional SolidOS views such as [Note Pad](https://github.com/solid/userguide/blob/master/views/views/notepad/userguide.md) and [Meeting](https://github.com/solid/userguide/blob/master/views/meeting/userguide.md).
+* Power User. View additional SolidOS views such as [Note Pad](https://github.com/solidos/userguide/blob/master/views/views/notepad/userguide.md) and [Meeting](https://github.com/solidos/userguide/blob/master/views/meeting/userguide.md).
 
 To update:
 1. Select your optional role(s) from the Roles listbox:
@@ -187,7 +187,7 @@ To update:
 
 _**Tip:** You need to refresh your web browser for the role changes to take affect._
 
-For more details on Roles, refer to the [User Roles](https://github.com/solid/userguide/blob/master/appendix/userroles.md) appendix.
+For more details on Roles, refer to the [User Roles](https://github.com/solidos/userguide/blob/master/appendix/userroles.md) appendix.
 
 #### Manage your trusted applications
 
