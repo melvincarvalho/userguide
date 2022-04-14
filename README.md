@@ -51,6 +51,7 @@ _**Notes:**_
 * _When viewing another person's pod, if you want to make use of Developer or PowerUser features, you need to set your preferences file (often found at `/settings/prefs.ttl` in your pod) to be world-readable._
 
 ## Log In
+
 To access your data, and data to which you have permission to access, you must log in:
 1. Click the **Log in** button.
 2. The **Select your Identity Provider** dialog is displayed:
@@ -66,14 +67,17 @@ To access your data, and data to which you have permission to access, you must l
 5. After a successful login, you can [view](#viewing-your-data) of all of the data to which you have read permission within the Pod.
 
 ## Log Out
+
 To log out of the Solid account:
 1. Open the dropdown menu in the top-right corner of the SolidOS by clicking your Profile image.
 2. Select **Log out**.
 
 ## Pod Functionality
+
 You can use SolidOS to browse and maintain the data within the Pod.
 
 ### Navigation
+
 SolidOS allows you to navigate through the data to which you have read access.
 
 1. If necessary, click the Solid logo to display the <img src="https://solidos.github.io/solid-ui/src/icons/noun_547570.svg" alt="Home" width="16" > Home view.
