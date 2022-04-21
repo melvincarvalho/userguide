@@ -1,5 +1,5 @@
 ---
-description: User Guide For Long Chat Data Browser view
+description: User Guide For Long Chat Databrowser view
 ---
 
 # Long Chat View User Guide

@@ -1,20 +1,21 @@
 ---
-description: User Guide For Source Data Browser view
+description: User Guide For Source Databrowser view
 ---
 
 # Source View User Guide
 
-- [Introduction](#introduction)
-- [View](#view)
-- [Edit](#edit)
-- [Save / Cancel](#save--cancel)
+- [Source View User Guide](#source-view-user-guide)
+  - [Introduction](#introduction)
+  - [View](#view)
+  - [Edit](#edit)
+  - [Save / Cancel](#save--cancel)
 
 ## Introduction
 The source of data resources (e.g., Turtle, HTML, etc.) can be viewed and edited via the Source view. 
 
 ## View
 To display the Source view for a folder or data resource:
-1. In the [Data Browser](https://github.com/solidos/userguide/README.md), navigate to the resource.
+1. In the [SolidOS Databrowser](./../../README.md), navigate to the resource.
 2. Select the <img src="https://solidos.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16" > Source view.
 3. The source for the selected resource is displayed:
 

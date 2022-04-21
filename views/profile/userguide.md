@@ -1,13 +1,14 @@
 ---
-description: User Guide For Profile Data Browser view
+description: User Guide For Profile Databrowser view
 ---
 
 # Profile User Guide
 
-- [Introduction](#introduction)
-- [Friends](#friends)
-   - [Add public Friends](#add-public-friends)
-   - [Remove public Friends](#remove-public-friends)
+- [Profile User Guide](#profile-user-guide)
+  - [Introduction](#introduction)
+  - [Friends](#friends)
+    - [Add public Friends](#add-public-friends)
+    - [Remove public Friends](#remove-public-friends)
 
 ## Introduction
 The Profile view displays the public Profile for the entered WebID and lists their public friends.
@@ -20,8 +21,8 @@ Several icons are displayed:
 * <img src="https://solidos.github.io/solid-ui/src/icons/noun_15059.svg" alt="Contact Profile" width="16"> Display the Contact view of the Profile.
 * <img src="https://solidos.github.io/solid-ui/src/icons/noun_99101.svg" alt="Person Profile" width="16"> Display the Person view of the Profile.
 * <img src="https://solidos.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="16"> Display public friends together with a link allowing the Profile to be view as a basic data resource.
-* <img src="https://solidos.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16"> [Source](https://github.com/solidos/userguide/blob/main/views/source/userguide.md). Display the source of the Profile.
-* <img src="https://solidos.github.io/solid-ui/src/originalIcons/tango/22-emblem-system.png" alt="Under the Hood" width="16"> [Under the Hood](https://github.com/solidos/userguide/blob/main/views/underthehood/userguide.md). Access 'under the hood' functionality regarding the resource.
+* <img src="https://solidos.github.io/solid-ui/src/icons/noun_109873.svg" alt="Source" width="16"> [Source](./../views/source/userguide.md). Display the source of the Profile.
+* <img src="https://solidos.github.io/solid-ui/src/originalIcons/tango/22-emblem-system.png" alt="Under the Hood" width="16"> [Under the Hood](./../underthehood/userguide.md). Access 'under the hood' functionality regarding the resource.
 
 _**Tip:** If you have edit permission to the Profile, you can edit the Profile in both the Contact and Person views._
 

@@ -1,15 +1,15 @@
 ---
-description: User Guide For Friends Data Browser view
+description: User Guide For Friends Databrowser view
 ---
 
 # <img src="https://solidos.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="32"> Friends User Guide
-If you want to view your friends or add someone as a friend to your profile, using the `foaf:knows` predicate, you can use the [Friends](https://github.com/solidos/userguide/blob/main/views/friends/userguide.md) view:
+If you want to view your friends or add someone as a friend to your profile, using the `foaf:knows` predicate, you can use the [Friends](./../friends/userguide.md) view:
 
 <img src="Friends_view.png" alt="Friends" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
 
 ## View
 To display your friends:
-1. In the [Data Browser](https://github.com/solidos/userguide/README.md), select **Show your profile** in the top-right dropdown menu. Your profile is displayed.
+1. In the [SolidOS Databrowser](./../../README.md), select **Show your profile** in the top-right dropdown menu. Your profile is displayed.
 2. Click the <img src="https://solidos.github.io/solid-ui/src/originalIcons/foaf/foafTiny.gif" alt="Friends" width="16"> Friends icon.
 
 The view displays a list of your existing friends.

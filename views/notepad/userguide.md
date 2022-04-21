@@ -1,5 +1,5 @@
 ---
-description: User Guide For Notepad Data Browser view
+description: User Guide For Notepad Databrowser view
 ---
 
 # Notepad User Guide
