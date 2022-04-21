@@ -1,5 +1,5 @@
 ---
-description: User Guide for Under the Hood Data Browser view
+description: User Guide for Under the Hood Databrowser view
 ---
 
 # Under the Hood View User Guide

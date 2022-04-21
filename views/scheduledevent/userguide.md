@@ -1,5 +1,5 @@
 ---
-description: User Guide For Scheduled Event Data Browser view
+description: User Guide For Scheduled Event Databrowser view
 ---
 
 # Scheduled Event View User Guide

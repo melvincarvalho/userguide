@@ -1,23 +1,24 @@
 ---
-description: User Guide For Sharing Data Browser view
+description: User Guide For Sharing Databrowser view
 ---
 
 # Sharing View User Guide
 
-- [Introduction](#introduction)
-- [View](#view)
-- [Specific Sharing for a Resource](#specific-sharing-for-a-resource)
-- [Custom Sharing](#custom-sharing)
-  - [Add](#add)
-  - [Adjust](#adjust)
-  - [Remove](#remove)
+- [Sharing View User Guide](#sharing-view-user-guide)
+  - [Introduction](#introduction)
+  - [View](#view)
+  - [Specific Sharing for a Resource](#specific-sharing-for-a-resource)
+  - [Custom Sharing](#custom-sharing)
+    - [Add](#add)
+    - [Adjust](#adjust)
+    - [Remove](#remove)
   
 ## Introduction
 Solid allows you to control who can access folders and data resources within your Pod, and what permission they have — i.e., read, create, update, and/or delete. 
 
 ## View
 To display the Sharing view for a folder or data resource:
-1. In the [Data Browser](https://github.com/solidos/userguide/README.md), navigate to the resource.
+1. In the [SolidOS Databrowser](./../../README.md), navigate to the resource.
 2. Select the <img src="https://solidos.github.io/solid-ui/src/icons/padlock-timbl.svg" alt="Sharing" width="16" > Sharing view.
 3. The Sharing settings for the selected resource are displayed:
 

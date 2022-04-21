@@ -1,5 +1,5 @@
 ---
-description: User Guide For (Short) Chat Data Browser view
+description: User Guide For (Short) Chat Databrowser view
 ---
 
 # Chat View User Guide

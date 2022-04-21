@@ -1,5 +1,5 @@
 ---
-description: User Guide For Meeting Data Browser view
+description: User Guide For Meeting Databrowser view
 ---
 
 # Meeting View User Guide
@@ -16,7 +16,7 @@ The Meeting view, also known as Meetulater, allows you to schedule a meeting wit
 
 ## View
 To view an existing meeting:
-1. In the [Data Browser](https://github.com/solidos/userguide/README.md), navigate to and click on the meeting.
+1. In the [SolidOS Databrowser](./../../README.md), navigate to and click on the meeting.
 3. If valid, the meeting details are displayed in a Meeting view:
 
 <img src="Meeting_View.png" alt="Meeting (Meetulater)" width="1024" style="border: 1; border-style:solid; border-color: rgb(200,200,200)">
@@ -43,7 +43,7 @@ Attendees can be added to the meeting. To invite the first attendee:
 
 To invite more attendees:
 1. Make sure the **Attendees** tab is active.
-2. The list of existing meeting attendees is displayed in an [Address Book](https://github.com/solidos/userguide/blob/main/views/addressbook/userguide.md) group.
+2. The list of existing meeting attendees is displayed in an [Address Book](./../addressbook/userguide.md) group.
 2. Highlight a WebID.
 3. Drag-and-drop the WebID onto the tab bar.
 4. The new attendee will be added to the meeting.
@@ -57,11 +57,11 @@ In addition to the basic meeting information and tools, you can add more tools t
     - <img src="https://solidos.github.io/solid-ui/src/icons/noun_339237.svg" alt="Participants" width="16"> Participants. Lists everyone who has joined the meeting.
     - <img src="https://solidos.github.io/solid-ui/src/icons/noun_346777.svg" alt="Schedule Poll" width="16"> Schedule Poll. Setup a poll of users on when to schedule another meeting.
     - <img src="https://solidos.github.io/solid-ui/src/icons/noun_48218.svg" alt="?" width="16"> Agenda. Setup a meeting agenda. _**Note:** This functionality is currently disabled._
-    - <img src="https://solidos.github.io/solid-ui/src/icons/noun_79217.svg" alt="Shared Tools" width="16"> Shared Notes. A shared multi-user [Note Pad](https://github.com/solidos/userguide/blob/main/views/views/notepad/userguide.md).
-    - <img src="https://solidos.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16"> [Chat](https://github.com/solidos/userguide/blob/main/views/chat/userguide.md). A short chat session. 
+    - <img src="https://solidos.github.io/solid-ui/src/icons/noun_79217.svg" alt="Shared Tools" width="16"> Shared Notes. A shared multi-user [Note Pad](./../notepad/userguide.md).
+    - <img src="https://solidos.github.io/solid-ui/src/icons/noun_346319.svg" alt="Chat" width="16"> [Chat](./../chat/userguide.md). A short chat session. 
     - <img src="https://solidos.github.io/solid-ui/src/icons/noun_17020.svg" alt="Actions" width="16"> Actions. [Issue Tracker](https://github.com/solidos/issue-pane/blob/main/README.md) to track issues and action itens.
     - <img src="https://solidos.github.io/solid-ui/src/icons/noun_260227.svg" alt="Video Call" width="16"> Video Call. Conduct a video call for the meeting. _**Note:** The availability of this functionality is dependent upon your web browser [iFrame](https://www.w3.org/TR/2011/WD-html5-20110525/the-iframe-element.html#the-iframe-element) rules and camera permissions._
-    - <img src="https://solidos.github.io/solid-ui/src/icons/noun_123691.svg" alt="Sharing" width="16"> [Sharing](https://github.com/solidos/userguide/blob/main/views/sharing/userguide.md). Display/update the sharing permissions for the meeting.
+    - <img src="https://solidos.github.io/solid-ui/src/icons/noun_123691.svg" alt="Sharing" width="16"> [Sharing](./../views/sharing/userguide.md). Display/update the sharing permissions for the meeting.
     - <img src="https://solidos.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16"> Meeting. Setup another meeting.
 3. Click the appropriate icon for the tool you want to add.
 4. If appropriate, a new tab for the selected tool is added to the tab bar for the meeting.
