@@ -29,7 +29,7 @@
 
 [SolidOS Databrowser Frontend](https://github.com/solidos), which we name SolidOS for simplicity, is intended to be extremely flexible and provide all the basic functionality to allow people to easily manage data on Solid, be that social core with contact management and collaborate with your friends, or the more complex use cases, such as a researcher organizing their data and research on a variety of data sources.
 
-SolidOS is your de-facto default interface to Solid, enabling you to create, share and collaborate on data stored within Solid Pods with your friends and contacts through social networks and applications. Using the SolidOS, you can coordinate all of your data in an interface that can be configured and extended to support all of your needs on Solid.
+SolidOS is your de-facto default interface to Solid, enabling you to create, share and collaborate on data stored within Solid Pods with your friends and contacts through social networks and applications. Using SolidOS, you can coordinate all of your data in an interface that can be configured and extended to support all of your needs on Solid.
 
 ## Accessing data
 
