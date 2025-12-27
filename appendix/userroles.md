@@ -25,7 +25,7 @@ Below is a table that documents the existing Databrowser views and the user type
 | <img src="https://solidos.github.io/solid-ui/src/originalIcons/rdf_flyer.24.gif" alt="Data" width="16"> Data | Display the resource using a Data view. | Developer |
 | <img src="https://solidos.github.io/solid-ui/src/icons/dokieli-logo.png" alt="Dokieli" width="16"> [Dokieli](https://dokie.li/) | Clientside editor for decentralised article publishing, annotations and social interactions. | Default |
 | <img src="https://solidos.github.io/solid-ui/src/icons/noun_973694_expanded.svg" alt="Folder" width="16"> Folder | Display the resources within the container in a tree-view. | Default |
-| [Form](https://solidos.github.io/solid-ui/Documentation/forms-intro.html) | Render a Form based on a Form Language model. | Power User |
+| [Form](https://solidos.github.io/solid-ui/docs/forms-intro.html) | Render a Form based on a Form Language model. | Power User |
 | <img src="https://solidos.github.io/solid-ui/src/icons/noun_547570.svg" alt="Home" width="16"> Home                 | Displays the user's Home view. | Default |
 | <img src="https://solidos.github.io/solid-ui/src/icons/noun_97839.svg" alt="Issue Tracker" width="16"> [Issue Tracker](./..//README.md) | A configurable issue tracker. | Power User |
 | <img src="https://solidos.github.io/solid-ui/src/icons/noun_66617.svg" alt="Meeting" width="16"> [Meeting](./../views/meeting/userguide.md) | A single meeting. | Power User |
